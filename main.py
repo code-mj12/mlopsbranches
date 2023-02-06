@@ -1,1 +1,1 @@
-
+print("MLOPS graduating batch")
